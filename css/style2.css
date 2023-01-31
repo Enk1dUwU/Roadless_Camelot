@@ -1,0 +1,281 @@
+.classbar
+{
+    width: 80%;
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin-left: 10%;
+    margin-top: 2%;
+    color: white;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.classbar img
+{
+    height: 100%;
+    float: left;
+}
+.flecha
+{
+    opacity: 30%;
+}
+.classbar p
+{
+    color: turquoise;
+    font-size: 600%;
+    position: relative;
+    top: 10%;
+    float: left;
+    width: 60%;
+}
+.classservant
+{
+    float: left;
+}
+.servantselect
+{
+    width: 70%;
+    height: 10%;
+    background-color: rgba(255, 235, 205, 0.5);
+    margin-left: 15%;
+    margin-top: 1%;
+    float: left;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: transform 0.5s;
+}
+.servantselect img
+{
+    height: 100%;
+    float: left;
+}
+.servantselect p
+{
+    color: black;
+    padding-top: 2%;
+    margin-left: 4%;
+    width: 15%;
+    float: left;
+    font-weight: bold;
+    font-size: larger;
+}
+.servantselect:hover
+{
+    background-color: blanchedalmond;
+    transform: translateX(35px) scale(1.05);
+}
+.cardtype
+{
+    float: left;
+}
+.nptype
+{
+    float: left;
+    margin-left: 5%;
+}
+.portraitcontainer
+{
+    height: 60%;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 4%;  
+    position: fixed;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    overflow: hidden;
+}
+.opt
+{
+    height: 10%;
+    width: 25%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.opt_beast
+{
+    height: 10%;
+    width: 25%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.opt:hover
+{
+    background-color: black;
+}
+.opt p
+{
+    color: turquoise;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15%;
+    cursor: pointer;
+}
+.portrait
+{
+    height: 90%;
+    width: 100%;
+    clear: both;
+    background-color: beige;
+}
+.portrait img
+{
+    height: 100%;
+    width: 100%;
+}
+.servantnm
+{
+    width: 60%;
+    height: 10%;
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.6);
+    float: left;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.servantnm img
+{
+    height: 100%;
+    float: left;
+    margin-left: 5%;
+}
+.servantnm p
+{
+    font-weight: bold;
+    font-size: 200%;
+    margin-left: 10%;
+    margin-top: 1%;
+    float: left;
+}
+.servantcontent
+{
+    width: 50%;
+    height: fit-content;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 40%;
+    background-color: rgba(255, 235, 205, 0.5);
+    float: left;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.servantcontent p
+{
+    margin-top: 2%;
+    color: black;
+    text-align: center;
+}
+.servantcontent span
+{
+    font-weight: bold;
+}
+.servantcard1
+{
+    margin-left: 32%;
+    height: 2%;
+    width: 50%;
+}
+.servantcard1 img
+{
+    width: 15%;
+}
+.servantcard2
+{
+    margin-left: 31%;
+    margin-top: 1%;
+    height: 2%;
+    width: 50%;
+}
+.servantcard2 img
+{
+    width: 5%;
+    padding-left: 6%;
+}
+.servantcard2 p
+{
+    font-weight: bold;
+    display: inline;
+}
+.contskills
+{
+    width: 60%;
+    height: 40%;
+    margin-left: 20%;
+}
+.contskills iframe
+{
+    margin-left: -10%;
+}
+.optskill
+{
+    width: 40%;
+    text-align: center;
+    margin-left: 37%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    overflow: hidden;
+}
+.skill
+{
+    clear: both;
+    width: 106.67%;
+    height: 100%;
+    margin-left: 3.33%;
+}
+.skill img
+{
+    width: 15%;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+.skill li
+{
+    margin-left: 8%;
+    padding-bottom: 5%;
+}
+.cenm
+{
+    width: 60%;
+    height: 10%;
+    margin-left: 35%;
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.6);
+    float: left;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.cenm p
+{
+    font-weight: bold;
+    font-size: 200%;
+    text-align: center;
+    margin-top: 1%;
+}
+.opt_hdn
+{
+    height: 10%;
+    width: 100%;
+    float: left;
+}
+.portraitcontainerce
+{
+    height: 60%;
+    width: 20%;
+    margin-top: 4%;
+    margin-left: 4%;  
+    position: fixed;
+    overflow: hidden;
+}
+.portraitce
+{
+    height: 100%;
+    width: 100%;
+    clear: both;
+    background-color: beige;
+}
+.portraitce img
+{
+    height: 100%;
+    width: 100%;
+}
