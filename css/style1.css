@@ -160,7 +160,11 @@ body {margin: 0px; overflow: hidden;}
     padding-bottom: 3%;
 }
 .content hr {border-color: blanchedalmond;}
-.game {position: relative; left: 4%;}
+.game {position: relative; left: 4%; transition: transform .5s;}
+.game:hover
+{
+    transform: scale(1.04);
+}
 .dl {text-decoration: none; font-weight: bold;}
 .dl p {padding-bottom: 4%;}
 .dl:hover p {color: turquoise; text-decoration: underline;}
