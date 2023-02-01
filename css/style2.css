@@ -176,9 +176,14 @@
     height: 2%;
     width: 50%;
 }
+.servantcard1 img:hover
+{
+    transform: scale(1.2);
+}
 .servantcard1 img
 {
     width: 15%;
+    transition: transform .5s;
 }
 .servantcard2
 {
