@@ -659,7 +659,7 @@ body {margin: 0px; overflow: hidden;}
     width: 600px;
     margin-right: 5%;
 }
-.ad_cont
+.main_cont
 {
     box-shadow: rgba(0, 0, 0, 0.3);
     width:80%;
@@ -667,7 +667,7 @@ body {margin: 0px; overflow: hidden;}
     margin-top: 10%;
     margin-left: 10%;
 }
-.ad_img
+.main_img
 {
     float: left;
     width: 25%;
@@ -675,16 +675,16 @@ body {margin: 0px; overflow: hidden;}
     flex-direction: column;
     justify-content: center;
 }
-.ad_img img
+.main_img img
 {
     margin-left: 27%;
     transition: transform 1s;
 }
-.ad_img img:hover
+.main_img img:hover
 {
     transform: translateY(-40px) scale(1.2);
 }
-.ad_img h3
+.main_img h3
 {
     margin-top: 5%;
     text-align: center;
@@ -698,4 +698,10 @@ iframe
 {
     width: 600px;
     position: relative; left: 29%;
+}
+#imagen 
+{
+    width: 400px;
+    height: 400px;
+    z-index: 9999;
 }
