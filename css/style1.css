@@ -678,7 +678,7 @@ body {margin: 0px; overflow: hidden;}
 .main_img img
 {
     margin-left: 27%;
-    transition: transform 1s;
+    transition: transform .8s;
 }
 .main_img img:hover
 {
@@ -698,10 +698,4 @@ iframe
 {
     width: 600px;
     position: relative; left: 29%;
-}
-#imagen 
-{
-    width: 400px;
-    height: 400px;
-    z-index: 9999;
 }
