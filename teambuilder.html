@@ -1,0 +1,239 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/style1.css">
+        <link rel="stylesheet" type="text/css" href="css/style2.css">
+        <link rel="shortcut icon" href="favicon.ico">
+        <title>Creador de Equipos</title>
+    </head>
+    <body>
+        <div class="cabecera">
+            <a href="principal.html"><img src="img/icono.png"></a>
+            <h1>Roadless Camelot</h1>
+            <h1 id="nombrep">Creador de Equipos</h1>
+        </div>
+        <div class="menu">
+            <nav class="navmenu">
+                <ul class="listmenu">
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="principal.html" class="navlink">Inicio</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem listmenuitem_click">
+                        <div class="listbutton listbutton_click">
+                            <a href="#" class="navlink">Servants</a>
+                            <img src="img/flecha_derecha.png" class="listflecha">
+                        </div>
+                        <ul class="listshow">
+                            <li class="list_in">
+                                <a href="servants_list.html" class="navlink navlink_in">Servants List</a>
+                            </li>
+                            <li class="list_in">
+                                <a href="noble_phantasm_list.html" class="navlink navlink_in">Noble Phantasm</a>
+                            </li>
+                            <li class="list_in">
+                                <a href="Spiritron_dress.html" class="navlink navlink_in">Spiritron Dress</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="craft_essences_list.html" class="navlink">Craft Essences</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="story.html" class="navlink">Historia</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="events_list.html" class="navlink">Eventos</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="minijuegos.html" class="navlink">Minijuegos</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="teambuilder.html" class="navlink">Crear Equipo</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem listmenuitem_click">
+                        <div class="listbutton listbutton_click">
+                            <a href="#" class="navlink">Otros Sitios</a>
+                            <img src="img/flecha_derecha.png" class="listflecha">
+                        </div>
+                        <ul class="listshow">
+                            <li class="list_in">
+                                <a href="https://rayshift.io/lookup" target="_blank" class="navlink navlink_in">Support List</a>
+                            </li>
+                            <li class="list_in">
+                                <a href="https://nechigawara.github.io/nechi-fgo-checklist/" target="_blank" class="navlink navlink_in">Servant Checklist</a>
+                            </li>
+                            <li class="list_in">
+                                <a href="https://fategrandorder.fandom.com/wiki/Account_Recovery" target="_blank" class="navlink navlink_in">Recuperar Cuenta</a>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="https://fate-go.us/" target="_blank" class="navlink">Sitio Oficial</a>
+                        </div>
+                    </li>
+                    <li class="listmenuitem">
+                        <div class="listbutton">
+                            <a href="acercade.html" class="navlink">Acerca De</a>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <script src="js/menu.js"></script>
+        <script src="js/teambuilder.js"></script>
+        <div class="contentf">
+            <div class="content">
+                <div class="tb">
+                <form>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_1" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value='357'>Skadi (Ruler)</option>
+                            <option value='356'>Erice Utsumi (Avenger)</option>
+                            <option value='355'>Ibuki Douji (Berserker)</option>
+                            <option value='354'>Gareth (Saber)</option>
+                            <option value='353'>Lady Avalon (Caster)</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_1"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_1" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><input type="radio" class="tb_support" name="tb_support" onclick="sup('164')"><span>Support</span></div>
+                </div>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_2" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_2"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_2" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><input type="radio" class="tb_support" name="tb_support" onclick="sup('417')"><span>Support</span></div>
+                </div>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_3" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_3"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_3" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><input type="radio" class="tb_support" name="tb_support" onclick="sup('670')" checked><span>Support</span></div>
+                </div>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_4" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_4"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_4" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><span><input type="radio" class="tb_support" name="tb_support" onclick="sup('923')">Support</span></div>
+                </div>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_5" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_5"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_5" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><input type="radio" class="tb_support" name="tb_support" onclick="sup('1176')"><span>Support</span></div>
+                </div>
+                <div class="cont_tb">
+                    <div class="opt_tb">
+                        <select id="tb_opt_6" class="sel_tb">
+                            <option value="000">--Servant--</option>
+                            <option value="311">Baobhan Sith</option>
+                            <option value="309">Morgan</option>
+                            <option value="302">Senji Muramasa</option>
+                            <option value="284">Artoria</option>
+                        </select>
+                    </div>
+                    <div class="port_tb"><img src="img/servants/portrait_servant_000_1.png" id="tb_port_6"></div>
+                    <div class="opt_tb">
+                        <select id="tb_asc_6" class="sel_tb">
+                            <option value="1">Ascension 1</option>
+                            <option value="2">Ascension 2</option>
+                            <option value="3">Ascension 3</option>
+                            <option value="4">Ascension 4</option>
+                        </select>
+                    </div>
+                    <div class="radio_tb"><input type="radio" class="tb_support" name="tb_support" onclick="sup('1429')"><span>Support</span></div>
+                </div>
+                <input type="button" onclick="mostrar_equipo()" value="MOSTRAR EQUIPO" class="tb_btn">
+                </form>
+                <p id="support">&nbsp;&nbsp;Support+</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
