@@ -586,7 +586,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .navspd_img:hover
 {
-    transform: translateY(-20px) scale(1.1);
+    transform: translateY(-20px) scale(1.05);
 }
 .navspd_i--inside
 {
@@ -702,4 +702,134 @@ iframe
 {
     width: 600px;
     position: relative; left: 29%;
+}
+.tb
+{
+    width: 1521px;
+    height: 454px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    background-color: rgba(255, 235, 205, 0.8);
+    margin-top: 100px;
+}
+.cont_tb
+{
+    float: left;
+    margin-left: 3px;
+}
+.opt_tb
+{
+    width: 250px;
+    height: 20px;
+}
+div.opt_tb
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.sel_tb
+{
+    border-radius: 5px;
+    width: 90%;
+    margin-left: 5%;
+    font-weight: bold;
+    text-align: center;
+    
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    cursor: pointer;
+}
+.sel_tb option
+{
+    font-weight: bold;
+    cursor: pointer;
+}
+.sel_tb option:checked
+{
+    background-color: rgba(64, 224, 208, .4);
+}
+.port_tb
+{
+    width: 250px;
+    height: 354px;
+    overflow: hidden;
+}
+.port_tb img
+{
+    width: 250px;
+}
+.radio_tb 
+{
+    width: 250px;
+    height: 20px;
+}
+.radio_tb *
+{
+    cursor: default;
+    font-weight: bold;
+    color: black;
+}
+div.radio_tb
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.tb_support
+{
+    margin-left: 35%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.tb_support
+{
+    accent-color: turquoise;
+}
+.tb_btn
+{
+    width: 300px;
+    height: 40px;
+    background-color: rgba(255, 235, 205, 0.8);
+    border-radius: 35px;
+    position: absolute;
+    left: 600px;
+    top: 600px;
+    cursor: pointer;
+    transition: transform .5s;
+    font-weight: bold;
+}
+.tb_btn:hover
+{
+    background-color: blanchedalmond;
+    transform: scale(1.2);
+}
+.tb_asc
+{
+    margin-left: 8px;
+}
+#support
+{
+    color: red;
+    width: 80px;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: solid 2px red;
+    position: absolute;
+    top: 135px;
+    left: 670px;
+    font-weight: bold;
+    cursor: default;
+}
+img.tb_class 
+{
+    position: relative;
+    /* left: 0px;
+    top: -355px; */
+    left: 95px;
+    top: -60;
+    width: 60px;
+    height: 60px;
+
 }
