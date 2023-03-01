@@ -1,0 +1,9 @@
+<!ELEMENT Servant_list (Servant+)>
+<!ELEMENT Servant (Number,img,Name,Class,Type)>
+    <!ATTLIST Servant xmlns CDATA #REQUIRED>
+<!ELEMENT Number (#PCDATA)>
+<!ELEMENT img EMPTY>
+    <!ATTLIST img src CDATA #REQUIRED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Class (#PCDATA)>
+<!ELEMENT Type (#PCDATA)>
