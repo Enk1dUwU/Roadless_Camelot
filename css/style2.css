@@ -20,7 +20,7 @@
 }
 .classbar p
 {
-    color: turquoise;
+    color: #66e6d9;
     font-size: 600%;
     position: relative;
     top: 10%;
@@ -51,7 +51,7 @@
 }
 .servantselect p
 {
-    color: black;
+    color: #222222;
     padding-top: 2%;
     margin-left: 4%;
     width: 15%;
@@ -89,14 +89,14 @@
     height: 10%;
     width: 25%;
     float: left;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #222222;
 }
 .opt_beast
 {
     height: 10%;
     width: 25%;
     float: left;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #222222;
 }
 .opt:hover
 {
@@ -104,7 +104,7 @@
 }
 .opt p
 {
-    color: turquoise;
+    color: #66e6d9;
     font-weight: bold;
     text-align: center;
     margin-top: 15%;
@@ -128,7 +128,7 @@
     height: 10%;
     margin-left: 35%;
     margin-top: 5%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #222222;
     float: left;
     border-radius: 20px;
     overflow: hidden;
@@ -164,7 +164,7 @@
 .servantcontent p
 {
     margin-top: 2%;
-    color: black;
+    color: #222222;
     text-align: center;
 }
 .servantcontent span
@@ -247,7 +247,7 @@
     height: 10%;
     margin-left: 35%;
     margin-top: 5%;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #222222;
     float: left;
     border-radius: 20px;
     overflow: hidden;
@@ -321,8 +321,8 @@
 {
     padding-top: 10px;
     padding-bottom: 10px;
-    border-top: black solid 2px;
-    border-bottom: black solid 2px;
+    border-top: #222222 solid 2px;
+    border-bottom: #222222 solid 2px;
     cursor: pointer;
 }
 #vent:hover,#desvent:hover

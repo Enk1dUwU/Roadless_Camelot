@@ -2,22 +2,25 @@ body {margin: 0px; overflow: hidden;}
 .cabecera {
     width: 100%;
     height: 15%;
-    background-color: rgba(0, 0, 0, 0.86);
+    background-color: #222222;
 }
-::-webkit-scrollbar {
+::-webkit-scrollbar 
+{
     width: 12px;
     
 }
-::-webkit-scrollbar-track {
+::-webkit-scrollbar-track 
+{
     -webkit-box-shadow: inset 0 0 6px rgba(64,224,208,0.3); 
     border-radius: 10px;
 }
-::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb 
+{
     border-radius: 10px;
     background-color: rgba(64,224,208, 0.6);
 }
 .cabecera h1 {
-    color: rgba(64, 224, 208, 0.8);
+    color: #66e6d9;
     position: relative;
     left: 7%;
     top: 20%;
@@ -36,10 +39,10 @@ body {margin: 0px; overflow: hidden;}
     margin-top: 0%;
     width: 9.8%;
     height: 85%;
-    /* background-color: turquoise; */
-    background-color: rgba(64, 224, 208, 0.8);
+    /* background-color: #66e6d9; */
+    background-color: #66e6d9;
     float: left;
-    border-right: rgba(0, 0, 0, 0.86) 2px solid;
+    border-right: #222222 2px solid;
     overflow: hidden;
 }
 .navmenu
@@ -48,7 +51,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .navlink
 {
-    color: black;
+    color: #222222;
     display: block;
     padding: 15px 0;
     text-decoration: none;
@@ -73,7 +76,7 @@ body {margin: 0px; overflow: hidden;}
     width: 100%;
     text-align: center;
     overflow: hidden;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.9)
+    border-bottom: 2px solid #222222
 }
 .listmenuitem_click
 {
@@ -121,8 +124,9 @@ body {margin: 0px; overflow: hidden;}
     float: left;
 }
 .content {
-    background-color: black;
+    background-color: #222222;
     background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
     width: 90%;
     height: 90%;
     margin: auto;
@@ -167,7 +171,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .dl {text-decoration: none; font-weight: bold;}
 .dl p {padding-bottom: 4%;}
-.dl:hover p {color: turquoise; text-decoration: underline;}
+.dl:hover p {color: #66e6d9; text-decoration: underline;}
 .tablaclases
 {
     border-spacing: 60px;
@@ -175,7 +179,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .tablaclases td
 {
-    border: 2px solid turquoise;
+    border: 2px solid #66e6d9;
     background-color: rgba(0, 0, 0, 0.3);
 }
 .tablaclases td:hover
@@ -202,7 +206,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .tablanp td
 {
-    border: 2px solid turquoise;
+    border: 2px solid #66e6d9;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.3);
 }
@@ -231,7 +235,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .cebar p
 {
-    color: turquoise;
+    color: #66e6d9;
     font-size: 600%;
     position: relative;
     top: 10%;
@@ -248,7 +252,7 @@ body {margin: 0px; overflow: hidden;}
     float: left;
     border-radius: 20px;
     overflow: hidden;
-    border: black solid 2px;
+    border: #222222 solid 2px;
 }
 .celist:hover
 {
@@ -256,7 +260,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .celist p
 {
-    color: black;
+    color: #222222;
     text-decoration: none;
     float: left;
     font-weight: bold;
@@ -525,14 +529,15 @@ body {margin: 0px; overflow: hidden;}
 
 .servantselect_crs
 {
-    width: 70%;
-    height: 60%;
+    width: 60%;
+    height: 50%;
     background-color: rgba(255, 235, 205, 0.5);
-    margin-left: 15%;
-    margin-top: 3.5%;
+    margin-left: 20%;
+    margin-top: 5%;
     float: left;
     border-radius: 20px;
     overflow: hidden;
+    border: #222222 solid 2px;
 }
 .servantselect_crs img
 {
@@ -541,13 +546,13 @@ body {margin: 0px; overflow: hidden;}
 }
 .servantselect_crs p
 {
-    color: black;
+    color: #222222;
     padding-top: 7.4%;
     margin-left: 4%;
     width: 25%;
     float: left;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
 }
 .servanttype_crs
 {
@@ -563,7 +568,7 @@ body {margin: 0px; overflow: hidden;}
     width: 50%;
     height: fit-content;
     float: left;
-    color: black;
+    color: #222222;
     margin-top: 1%;
 }
 .spd_icon
@@ -572,7 +577,7 @@ body {margin: 0px; overflow: hidden;}
 }
 .navspd_i
 {
-    color: black;
+    color: #222222;
     display: block;
     font-weight: bold;
     /* padding: 15px 0; */
@@ -635,7 +640,7 @@ body {margin: 0px; overflow: hidden;}
     cursor: pointer;
     border-radius: 20px;
     overflow: hidden;
-    border: black solid 2px;
+    border: #222222 solid 2px;
 }
 .listspd_button:hover
 {
@@ -740,7 +745,7 @@ div.opt_tb
     text-align: center;
     
     background-color: rgba(255, 255, 255, 0.8);
-    color: black;
+    color: #222222;
     cursor: pointer;
 }
 .sel_tb option
@@ -771,7 +776,7 @@ div.opt_tb
 {
     cursor: default;
     font-weight: bold;
-    color: black;
+    color: #222222;
 }
 div.radio_tb
 {
@@ -786,7 +791,7 @@ div.radio_tb
 }
 .tb_support
 {
-    accent-color: turquoise;
+    accent-color: #66e6d9;
 }
 .tb_btn
 {
@@ -905,7 +910,7 @@ img.mc_img
     margin-top: 2%;
     height: 20%;
     transition: transform .5s;
-    border: black solid 2px;
+    border: #222222 solid 2px;
 }
 .ccode:hover
 {
@@ -914,7 +919,7 @@ img.mc_img
 }
 .ccode p
 {
-    color: black;
+    color: #222222;
     font-weight: bold;
 }
 img.ccode_img

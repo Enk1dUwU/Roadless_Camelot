@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Servant_list SYSTEM "servant_list.dtd">
+<?xml-stylesheet href="css/xml.css"?>
+
+<Servant_list>	
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>336</Number>
+        <img src="img/servants/icon_servant_336.png"></img>
+        <Name>Manannan mac Lir</Name>
+        <Class>Alter Ego</Class>
+        <Type>Quick</Type>
+    </Servant>  
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>335</Number>
+        <img src="img/servants/icon_servant_335.png"></img>
+        <Name>Hephaestion</Name>
+        <Class>Pretender</Class>
+        <Type>Arts</Type>
+    </Servant>  
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>334</Number>
+        <img src="img/servants/icon_servant_334.png"></img>
+        <Name>Koyanskaya of Dark</Name>
+        <Class>Foreigner</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>311</Number>
+        <img src="img/servants/icon_servant_311.png"></img>
+        <Name>Baibhan Sith</Name>
+        <Class>Archer</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>309</Number>
+        <img src="img/servants/icon_servant_309.png"></img>
+        <Name>Morgan</Name>
+        <Class>Berserker</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>308</Number>
+        <img src="img/servants/icon_servant_308.png"></img>
+        <Name>Mysterious Idol X</Name>
+        <Class>Foreigner</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>302</Number>
+        <img src="img/servants/icon_servant_302.png"></img>
+        <Name>Senji Muramasa</Name>
+        <Class>Saber</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>284</Number>
+        <img src="img/servants/icon_servant_284.png"></img>
+        <Name>Artoria</Name>
+        <Class>Caster</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>281</Number>
+        <img src="img/servants/icon_servant_281.png"></img>
+        <Name>Voyager</Name>
+        <Class>Foreigner</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>273</Number>
+        <img src="img/servants/icon_servant_273.png"></img>
+        <Name>Mandricardo</Name>
+        <Class>Rider</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>259</Number>
+        <img src="img/servants/icon_servant_259.png"></img>
+        <Name>Charlotte Corday</Name>
+        <Class>Assassin</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>220</Number>
+        <img src="img/servants/icon_servant_220.png"></img>
+        <Name>BB</Name>
+        <Class>Moon Cancer</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>219</Number>
+        <img src="img/servants/icon_servant_219.png"></img>
+        <Name>Jalter</Name>
+        <Class>Berserker</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>215</Number>
+        <img src="img/servants/icon_servant_215.png"></img>
+        <Name>Skadi</Name>
+        <Class>Caster</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>209</Number>
+        <img src="img/servants/icon_servant_209.png"></img>
+        <Name>Okita Souji</Name>
+        <Class>Alter Ego</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>206</Number>
+        <img src="img/servants/icon_servant_206.png"></img>
+        <Name>Achilles</Name>
+        <Class>Rider</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>196</Number>
+        <img src="img/servants/icon_servant_196.png"></img>
+        <Name>Ereshkigal</Name>
+        <Class>Lancer</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>183</Number>
+        <img src="img/servants/icon_servant_183.png"></img>
+        <Name>Parvati</Name>
+        <Class>Lancer</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>166</Number>
+        <img src="img/servants/icon_servant_166.png"></img>
+        <Name>BB</Name>
+        <Class>Moon Cancer</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>163</Number>
+        <img src="img/servants/icon_servant_163.png"></img>
+        <Name>Meltryllis</Name>
+        <Class>Alter Ego</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>160</Number>
+        <img src="img/servants/icon_servant_160.png"></img>
+        <Name>Arthur Pendragon</Name>
+        <Class>Saber</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>154</Number>
+        <img src="img/servants/icon_servant_154.png"></img>
+        <Name>First Hassan</Name>
+        <Class>Assassin</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>151</Number>
+        <img src="img/servants/icon_servant_151.png"></img>
+        <Name>Goetia</Name>
+        <Class>Beast</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>150</Number>
+        <img src="img/servants/icon_servant_150.png"></img>
+        <Name>Merlin</Name>
+        <Class>Caster</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>149</Number>
+        <img src="img/servants/icon_servant_149.png"></img>
+        <Name>Tiamat</Name>
+        <Class>Beast</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>145</Number>
+        <img src="img/servants/icon_servant_145.png"></img>
+        <Name>Gilgamesh</Name>
+        <Class>Caster</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>143</Number>
+        <img src="img/servants/icon_servant_143.png"></img>
+        <Name>Enkidu</Name>
+        <Class>Lancer</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>113</Number>
+        <img src="img/servants/icon_servant_113.png"></img>
+        <Name>Xuanzang Sanzang</Name>
+        <Class>Caster</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>109</Number>
+        <img src="img/servants/icon_servant_109.png"></img>
+        <Name>Emiya</Name>
+        <Class>Assassin</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>107</Number>
+        <img src="img/servants/icon_servant_107.png"></img>
+        <Name>Angra Mainyu</Name>
+        <Class>Avenger</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>106</Number>
+        <img src="img/servants/icon_servant_106.png"></img>
+        <Name>Jalter</Name>
+        <Class>Avenger</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>099</Number>
+        <img src="img/servants/icon_servant_099.png"></img>
+        <Name>Queen Medb</Name>
+        <Class>Rider</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>096</Number>
+        <img src="img/servants/icon_servant_096.png"></img>
+        <Name>Edmond Dantés</Name>
+        <Class>Avenger</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>094</Number>
+        <img src="img/servants/icon_servant_094.png"></img>
+        <Name>Astolfo</Name>
+        <Class>Rider</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>093</Number>
+        <img src="img/servants/icon_servant_093.png"></img>
+        <Name>Amakusa Shirou</Name>
+        <Class>Ruler</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>092</Number>
+        <img src="img/servants/icon_servant_092.png"></img>
+        <Name>Ryougi Shiki</Name>
+        <Class>Assassin</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>070</Number>
+        <img src="img/servants/icon_servant_070.png"></img>
+        <Name>Scathach</Name>
+        <Class>Lancer</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>069</Number>
+        <img src="img/servants/icon_servant_069.png"></img>
+        <Name>Nobunaga Oda</Name>
+        <Class>Archer</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>068</Number>
+        <img src="img/servants/icon_servant_068.png"></img>
+        <Name>Okita Souji</Name>
+        <Class>Saber</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>059</Number>
+        <img src="img/servants/icon_servant_059.png"></img>
+        <Name>Jeanne d'Arc</Name>
+        <Class>Ruler</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>023</Number>
+        <img src="img/servants/icon_servant_023.png"></img>
+        <Name>Medusa</Name>
+        <Class>Rider</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>017</Number>
+        <img src="img/servants/icon_servant_017.png"></img>
+        <Name>Cu Chulainn</Name>
+        <Class>Lancer</Class>
+        <Type>Quick</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>013</Number>
+        <img src="img/servants/icon_servant_013.png"></img>
+        <Name>Robin Hood</Name>
+        <Class>Archer</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>012</Number>
+        <img src="img/servants/icon_servant_012.png"></img>
+        <Name>Gilgamesh</Name>
+        <Class>Archer</Class>
+        <Type>Buster</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>005</Number>
+        <img src="img/servants/icon_servant_005.png"></img>
+        <Name>Nero Claudius</Name>
+        <Class>Saber</Class>
+        <Type>Arts</Type>
+    </Servant>
+    <Servant xmlns="http://www.w3.org/1999/xhtml">
+        <Number>001</Number>
+        <img src="img/servants/icon_servant_001.png"></img>
+        <Name>Mash Kyrielight</Name>
+        <Class>Shielder</Class>
+        <Type>Arts</Type>
+    </Servant>
+</Servant_list>	
